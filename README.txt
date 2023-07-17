@@ -1,0 +1,2 @@
+This is a simple minesweeper game run in the terminal. This game has 3 levels of difficulty and ensures all rules
+of minesweeper are properly followed. The goal of the game is to select all the tiles without mines in them.

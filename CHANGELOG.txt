@@ -1,0 +1,6 @@
+4/24: Started coding functions like placemines() and printmap(), finished with printmap() working and printing an
+empty grid
+
+4/25: Finished placemines() and worked on play loop for the game.
+
+4/26: Finalized the game, finishing touches/debugging little things.
